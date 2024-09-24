@@ -49,7 +49,7 @@ for doc in cloudera_documents:
 ### Limitation
 Currently, the loader has the following limitations:
 * Only Impala Virtual Warehouses are supported
-* Only LDAP configuration (with workload username and password) is supported
+* Only LDAP authentication (with workload username and password) is supported
 
 
 
