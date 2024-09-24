@@ -3,6 +3,12 @@ from cloudera_loader import ClouderaVWLoader
 # Cloudera Virtual Warehouse Loader
 ## An helper class to load CDW's tables into Langchain's Documents
 
+### Requirements
+Before using this module you must have the impyla package installed
+
+```
+pip install impyla
+```
 
 ### How to use it
 Add the file to your PYTHON_PATH then run
